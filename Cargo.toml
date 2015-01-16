@@ -2,7 +2,7 @@
 
 name = "semverio"
 version = "0.0.1"
-authors = ["Stephen Belanger <sbelanger@appneta.com>"]
+authors = ["Stephen Belanger <admin@stephenbelanger.com>"]
 
 [dependencies]
 regex = "0.1.5"
