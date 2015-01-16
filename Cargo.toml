@@ -1,0 +1,9 @@
+[package]
+
+name = "semverio"
+version = "0.0.1"
+authors = ["Stephen Belanger <sbelanger@appneta.com>"]
+
+[dependencies]
+regex = "0.1.5"
+curl = "0.1.10"
